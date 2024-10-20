@@ -2,7 +2,7 @@
  
  **COMPANY:**  CODTECH  
 
-
+## TASK2
 ## Overview of Reinforcement Learning
 Reinforcement Learning is a subdiscipline within machine learning, where such an agent would learn how it is expected to take actions in an environment to maximise cumulative rewards. It has origins within behavioral psychology and learns through interactions rather than through explicit instructions.
 ## Key concepts in Reinforcement Learning
