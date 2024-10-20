@@ -1,5 +1,5 @@
-# NAME: ** SYEDZIYAN 
-# COMPANY:  **CODTECH 
+# NAME:  *SYEDZIYAN 
+# COMPANY:  *CODTECH 
 
 
 ## Overview of Reinforcement Learning
